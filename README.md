@@ -23,7 +23,7 @@ Next Steps
 
 Version 1.2.2
 ---
-# CatBoost Raytracing Surrogate — To Do
+## CatBoost Raytracing Surrogate — To Do
 
 * [x] Train 10 CatBoost models for raytracing prediction
 * [x] Test models on unseen geometries
