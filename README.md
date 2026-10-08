@@ -69,3 +69,12 @@ Version 1.2.2
 
 * [ ] Investigate ONNX Runtime only if needed for deployment
 * [ ] Add acoustic prediction after the raytracing surrogate is validated
+
+
+Version 1.2.3
+---
+
+## To Do
+* Increase Training Data of Model, i.e. number of breps
+* Combine all 10 separate .cdm into a single i.e. train only one catboost model
+
