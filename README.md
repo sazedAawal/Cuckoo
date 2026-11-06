@@ -1,6 +1,10 @@
 # Cuckoo
 A custom Grasshopper based plugin aimed to explore Acoustics
 
+# Overall Future Goal
+- Use CUDA alike GPU processing for in-built ray-tracing accuracy with larger scale model
+- Use Surrogate ML model, with sufficient datasets
+
 Version 1.2.1
 ---
 - Raytracer simulates a single Brep.
