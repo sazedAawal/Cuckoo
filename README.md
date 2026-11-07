@@ -1,5 +1,7 @@
-# Cuckoo
+# Bennu
 A custom Grasshopper based plugin aimed to explore Acoustics
+[Title Origin](https://en.wikipedia.org/wiki/Bennu)
+
 
 # Overall Future Goal
 - Use CUDA alike GPU processing for in-built ray-tracing accuracy with larger scale model
