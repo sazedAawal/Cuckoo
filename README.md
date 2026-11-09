@@ -1,6 +1,6 @@
 # Bennu
 A custom Grasshopper based plugin aimed to explore Acoustics
-[Title Origin](https://en.wikipedia.org/wiki/Bennu)
+
 
 
 # Overall Future Goal
